@@ -1,0 +1,9 @@
+{
+  "name": "KarpfenLog – Fangtagebuch",
+  "short_name": "KarpfenLog",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f6f2",
+  "theme_color": "#123d32",
+  "description": "Karpfenfänge, Gewässer, Spots, Wetter und Angelbedingungen dokumentieren"
+}
